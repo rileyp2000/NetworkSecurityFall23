@@ -8,4 +8,4 @@ MedBIoT Dataset:
 Steps:
   1. Download datasets
   2. Run data_processing.ipynb to turn the raw data into pkl files
-  3. Run Autencoder.ipynb to create, train, and test the hybrid architecture as well as the baseline and SoTA architectures considered in this work.
+  3. Run NetSecProject.ipynb to create, train, and test the hybrid architecture as well as the baseline and SoTA architectures considered in this work.
